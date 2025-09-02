@@ -1,10 +1,15 @@
-# HOW TO RUN THE CODE
+# HOW TO RUN THE CODE 
 
 --python -m venv .env
+
 --.env\Scripts\activate
+
 --pip install pybase64
+
 --pip install cryptography
+
 --python main.py
+
 
 # HOW ITS WORK'S
 
